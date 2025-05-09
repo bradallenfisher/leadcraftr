@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/understanding-the-role-of-prospects-in-business-growth.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Understanding the Role of Prospects in Business Growth](/media/understanding-the-role-of-prospects-in-business-growth.webp)

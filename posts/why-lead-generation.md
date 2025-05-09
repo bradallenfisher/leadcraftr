@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-lead-generation.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Why Lead Generation?](/media/why-lead-generation.webp)

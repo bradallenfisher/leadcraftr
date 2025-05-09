@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/exploring-the-viability-of-customer-acquisition-as-a-profitable-venture.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Exploring the Viability of Customer Acquisition As A Profitable Venture](/media/exploring-the-viability-of-customer-acquisition-as-a-profitable-venture.webp)

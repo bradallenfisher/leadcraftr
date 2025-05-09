@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-lead-generation.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![What Are Lead Generation?](/media/what-are-lead-generation.webp)

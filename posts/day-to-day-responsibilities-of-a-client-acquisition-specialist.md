@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/day-to-day-responsibilities-of-a-client-acquisition-specialist.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![Day-to-day Responsibilities of A Client Acquisition Specialist](/media/day-to-day-responsibilities-of-a-client-acquisition-specialist.webp)

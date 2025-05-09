@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/authority-does-the-lead-have-decision-making-authority.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Authority: Does the Lead Have Decision-making Authority?](/media/authority-does-the-lead-have-decision-making-authority.webp)

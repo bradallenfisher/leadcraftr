@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-the-current-trends-in-lead-generation.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![What Are the Current Trends in Lead Generation?](/media/what-are-the-current-trends-in-lead-generation.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/do-you-have-lead-generation-experience.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![Do You Have Lead Generation Experience?](/media/do-you-have-lead-generation-experience.webp)

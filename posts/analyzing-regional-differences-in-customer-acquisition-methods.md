@@ -4,6 +4,8 @@ date: 2025-05-07
 image: "/media/analyzing-regional-differences-in-customer-acquisition-methods.webp"
 tags:
   - post
+  - marketing
+  - lead generation
 ---
 
 ![Analyzing Regional Differences in Customer Acquisition Methods](/media/analyzing-regional-differences-in-customer-acquisition-methods.webp)

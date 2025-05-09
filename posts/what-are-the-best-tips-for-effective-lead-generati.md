@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-the-best-tips-for-effective-lead-generation.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![What Are the Best Tips for Effective Lead Generation?](/media/what-are-the-best-tips-for-effective-lead-generation.webp)

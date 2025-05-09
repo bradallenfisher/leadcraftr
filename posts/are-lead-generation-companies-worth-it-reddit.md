@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/are-lead-generation-companies-worth-it-reddit.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Are Lead Generation Companies Worth It? Reddit](/media/are-lead-generation-companies-worth-it-reddit.webp)

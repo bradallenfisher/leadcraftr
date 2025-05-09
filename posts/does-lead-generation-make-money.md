@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/does-lead-generation-make-money.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Does Lead Generation Make Money?](/media/does-lead-generation-make-money.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-is-lead-generation-important.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Why Is Lead Generation Important?](/media/why-is-lead-generation-important.webp)

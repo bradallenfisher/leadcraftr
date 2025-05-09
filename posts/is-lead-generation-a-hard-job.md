@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-a-hard-job.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Is Lead Generation A Hard Job?](/media/is-lead-generation-a-hard-job.webp)

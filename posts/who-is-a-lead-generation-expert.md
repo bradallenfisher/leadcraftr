@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/who-is-a-lead-generation-expert.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Who Is A Lead Generation Expert?](/media/who-is-a-lead-generation-expert.webp)

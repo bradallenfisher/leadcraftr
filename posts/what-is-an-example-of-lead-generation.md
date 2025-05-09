@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-an-example-of-lead-generation.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![What Is an Example of Lead Generation?](/media/what-is-an-example-of-lead-generation.webp)

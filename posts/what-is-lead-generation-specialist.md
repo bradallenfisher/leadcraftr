@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-a-lead-generation-specialist.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![What Is A Lead Generation Specialist?](/media/what-is-a-lead-generation-specialist.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-a-tough-job.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Is Lead Generation A Tough Job?](/media/is-lead-generation-a-tough-job.webp)

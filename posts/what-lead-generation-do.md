@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-does-lead-generation-do.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![What Does Lead Generation Do?](/media/what-does-lead-generation-do.webp)

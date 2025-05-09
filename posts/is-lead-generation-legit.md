@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-legit.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Is Lead Generation Legit?](/media/is-lead-generation-legit.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/can-you-be-sure-that-the-potential-customer-prefers-the-channel-you-re-using.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![Can You Be Sure That the Potential Customer Prefers the Channel You're Using?](/media/can-you-be-sure-that-the-potential-customer-prefers-the-channel-you-re-using.webp)

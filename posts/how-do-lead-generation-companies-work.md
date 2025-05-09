@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-lead-generation-companies-work.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![How Do Lead Generation Companies Work?](/media/how-do-lead-generation-companies-work.webp)

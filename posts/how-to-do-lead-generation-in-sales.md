@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-to-do-lead-generation-in-sales.webp"
 tags:
   - post
+  - business growth
 ---
 
 ![How to Do Lead Generation in Sales](/media/how-to-do-lead-generation-in-sales.webp)

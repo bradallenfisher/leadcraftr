@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/where-to-accept-facebook-lead-generation-terms-of-service.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![Where to Accept Facebook Lead Generation Terms of Service](/media/where-to-accept-facebook-lead-generation-terms-of-service.webp)

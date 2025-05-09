@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-the-best-example-of-lead-generation.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![What Is the Best Example of Lead Generation?](/media/what-is-the-best-example-of-lead-generation.webp)

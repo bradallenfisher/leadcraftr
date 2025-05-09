@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-lead-generation-platforms-work.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![How Do Lead Generation Platforms Work?](/media/how-do-lead-generation-platforms-work.webp)

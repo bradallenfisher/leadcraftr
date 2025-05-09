@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-to-do-lead-generation-on-linkedin.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![How to Do Lead Generation on Linkedin](/media/how-to-do-lead-generation-on-linkedin.webp)

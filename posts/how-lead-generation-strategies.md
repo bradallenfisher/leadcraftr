@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-lead-generation-strategies-work.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![How Lead Generation Strategies Work](/media/how-lead-generation-strategies-work.webp)

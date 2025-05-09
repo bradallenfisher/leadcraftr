@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-lead-generation-tools.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![What Are Lead Generation Tools?](/media/what-are-lead-generation-tools.webp)

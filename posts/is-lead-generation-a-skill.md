@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-a-skill.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Is Lead Generation A Skill?](/media/is-lead-generation-a-skill.webp)

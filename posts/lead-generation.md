@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/lead-generation.webp"
 tags:
   - post
+  - lead generation
 ---
 ![Lead Generation: A Comprehensive Guide to Effective Strategies and Tools](/media/lead-generation.webp)
 

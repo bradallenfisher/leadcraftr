@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/budget-does-the-lead-have-the-financial-resources-to-purchase-your-product-or-service.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Budget: Does the Lead Have the Financial Resources to Purchase Your Product or Service?](/media/budget-does-the-lead-have-the-financial-resources-to-purchase-your-product-or-service.webp)

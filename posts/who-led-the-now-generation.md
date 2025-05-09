@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/who-led-the-now-generation.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Who Led the Now Generation?](/media/who-led-the-now-generation.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-the-lead-generation-process-and-how-does-it-work.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![What Is the Lead Generation Process, and How Does It Work?](/media/what-is-the-lead-generation-process-and-how-does-it-work.webp)

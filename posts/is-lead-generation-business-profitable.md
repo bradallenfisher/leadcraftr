@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-business-profitable.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Is Lead Generation Business Profitable?](/media/is-lead-generation-business-profitable.webp)

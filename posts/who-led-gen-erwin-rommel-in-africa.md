@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/who-led-gen-erwin-rommel-in-africa.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Who Led Gen Erwin Rommel in Africa?](/media/who-led-gen-erwin-rommel-in-africa.webp)

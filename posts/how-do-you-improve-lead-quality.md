@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-you-improve-lead-quality.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![How Do You Improve Lead Quality?](/media/how-do-you-improve-lead-quality.webp)

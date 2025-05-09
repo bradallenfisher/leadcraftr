@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/who-is-a-lead-generation-specialist.webp"
 tags:
   - post
+  - business growth
 ---
 
 ![Who Is A Lead Generation Specialist?](/media/who-is-a-lead-generation-specialist.webp)

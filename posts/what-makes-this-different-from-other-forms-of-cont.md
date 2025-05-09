@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-makes-this-different-from-other-forms-of-content-led-lead-capture.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![What Makes This Different From Other Forms of Content-led Lead Capture?](/media/what-makes-this-different-from-other-forms-of-content-led-lead-capture.webp)

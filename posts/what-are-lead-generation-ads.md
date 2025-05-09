@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-lead-generation-ads.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![What Are Lead Generation Ads?](/media/what-are-lead-generation-ads.webp)

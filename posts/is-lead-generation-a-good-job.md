@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-a-good-job.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![Is Lead Generation A Good Job?](/media/is-lead-generation-a-good-job.webp)

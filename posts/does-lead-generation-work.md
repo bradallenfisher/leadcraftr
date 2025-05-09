@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/does-lead-generation-work.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Does Lead Generation Work?](/media/does-lead-generation-work.webp)

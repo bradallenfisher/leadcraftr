@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/improving-lead-quality-through-targeted-engagement-methods.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![Improving Lead Quality Through Targeted Engagement Methods](/media/improving-lead-quality-through-targeted-engagement-methods.webp)

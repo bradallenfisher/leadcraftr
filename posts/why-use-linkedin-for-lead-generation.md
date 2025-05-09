@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-use-linkedin-for-lead-generation.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Why Use Linkedin for Lead Generation?](/media/why-use-linkedin-for-lead-generation.webp)

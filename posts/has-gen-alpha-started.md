@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/has-gen-alpha-started.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![Has Gen Alpha Started?](/media/has-gen-alpha-started.webp)

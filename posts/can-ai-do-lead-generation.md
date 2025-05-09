@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/can-ai-do-lead-generation.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Can Ai Do Lead Generation?](/media/can-ai-do-lead-generation.webp)

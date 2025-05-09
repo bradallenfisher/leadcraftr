@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-the-difference-between-b2b-and-b2c-lead-generation.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![What Is the Difference Between B2b and B2c Lead Generation?](/media/what-is-the-difference-between-b2b-and-b2c-lead-generation.webp)

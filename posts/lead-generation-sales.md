@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-lead-generation-in-sales.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![What Is Lead Generation in Sales?](/media/what-is-lead-generation-in-sales.webp)

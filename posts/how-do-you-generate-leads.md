@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-you-generate-leads.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![How Do You Generate Leads?](/media/how-do-you-generate-leads.webp)

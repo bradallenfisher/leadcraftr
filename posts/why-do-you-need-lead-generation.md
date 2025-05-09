@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-do-you-need-lead-generation.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![Why Do You Need Lead Generation?](/media/why-do-you-need-lead-generation.webp)

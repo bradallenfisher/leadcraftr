@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-hard.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![Is Lead Generation Hard?](/media/is-lead-generation-hard.webp)

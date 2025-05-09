@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/clarifying-marketing-s-role-in-attracting-potential-customers.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![Clarifying Marketing's Role in Attracting Potential Customers](/media/clarifying-marketing-s-role-in-attracting-potential-customers.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-the-lead-generation-process.webp"
 tags:
   - post
+  - business growth
 ---
 
 ![What Is the Lead Generation Process?](/media/what-is-the-lead-generation-process.webp)

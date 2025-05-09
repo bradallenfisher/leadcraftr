@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/lead-generation-is-it-marketing-or-sales.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Lead Generation: Is It Marketing or Sales?](/media/lead-generation-is-it-marketing-or-sales.webp)

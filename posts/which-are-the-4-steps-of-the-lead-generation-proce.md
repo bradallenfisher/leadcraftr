@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/which-are-the-4-steps-of-the-lead-generation-process.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Which Are the 4 Steps of the Lead Generation Process?](/media/which-are-the-4-steps-of-the-lead-generation-process.webp)

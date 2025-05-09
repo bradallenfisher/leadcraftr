@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-easy.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![Is Lead Generation Easy?](/media/is-lead-generation-easy.webp)

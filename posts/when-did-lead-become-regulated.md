@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/when-did-lead-become-regulated.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![When Did Lead Become Regulated?](/media/when-did-lead-become-regulated.webp)

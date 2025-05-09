@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-lead-generation.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![What Is Lead Generation?](/media/what-is-lead-generation.webp)

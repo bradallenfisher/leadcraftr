@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-part-of-digital-marketing.webp"
 tags:
   - post
+  - business growth
 ---
 
 ![Is Lead Generation Part of Digital Marketing?](/media/is-lead-generation-part-of-digital-marketing.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/canada-lead-generation.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Canada Lead Generation](/media/canada-lead-generation.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-are-lead-generation-campaigns-created.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Why Are Lead Generation Campaigns Created?](/media/why-are-lead-generation-campaigns-created.webp)

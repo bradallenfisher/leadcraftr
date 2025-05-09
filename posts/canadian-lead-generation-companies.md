@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/canadian-lead-generation-companies.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Canadian Lead Generation Companies](/media/canadian-lead-generation-companies.webp)

@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/mastering-client-acquisition-techniques-for-b2b-success.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Mastering Client Acquisition Techniques for B2b Success](/media/mastering-client-acquisition-techniques-for-b2b-success.webp)

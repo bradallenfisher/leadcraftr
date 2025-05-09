@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/can-we-connect-lead-generation-form-on-meta-to-google-sheet.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![Can We Connect Lead Generation Form on Meta to Google Sheet?](/media/can-we-connect-lead-generation-form-on-meta-to-google-sheet.webp)

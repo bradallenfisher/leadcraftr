@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/optimal-placement-for-contact-information-on-conversion-sites.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Optimal Placement for Contact Information on Conversion Sites](/media/optimal-placement-for-contact-information-on-conversion-sites.webp)

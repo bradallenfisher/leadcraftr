@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-the-best-practices-for-lead-generation.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![What Are the Best Practices for Lead Generation?](/media/what-are-the-best-practices-for-lead-generation.webp)

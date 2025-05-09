@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/comprehensive-overview-of-customer-capture-fundamentals.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Comprehensive Overview of Customer Capture Fundamentals](/media/comprehensive-overview-of-customer-capture-fundamentals.webp)

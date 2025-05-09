@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-the-best-lead-generation-tool.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![What Is the Best Lead Generation Tool?](/media/what-is-the-best-lead-generation-tool.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-to-create-a-lead-generation-website.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![How to Create A Lead Generation Website](/media/how-to-create-a-lead-generation-website.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/now-that-you-ve-got-a-better-understanding-of-lead-generation-how-can-you-start-to-move-people-from-prospect-to-buyer.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Now That You’ve Got A Better Understanding of Lead Generation, How Can You Start to Move People From Prospect to Buyer?](/media/now-that-you-ve-got-a-better-understanding-of-lead-generation-how-can-you-start-to-move-people-from-prospect-to-buyer.webp)

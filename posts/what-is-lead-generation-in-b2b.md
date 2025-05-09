@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-lead-generation-in-b2b.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![What Is Lead Generation in B2b?](/media/what-is-lead-generation-in-b2b.webp)

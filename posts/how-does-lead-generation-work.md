@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-does-lead-generation-work.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![How Does Lead Generation Work?](/media/how-does-lead-generation-work.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-lead-qualification-and-nurturing-work.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![How Do Lead Qualification and Nurturing Work?](/media/how-do-lead-qualification-and-nurturing-work.webp)

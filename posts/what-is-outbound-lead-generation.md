@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-outbound-lead-generation.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![What Is Outbound Lead Generation?](/media/what-is-outbound-lead-generation.webp)

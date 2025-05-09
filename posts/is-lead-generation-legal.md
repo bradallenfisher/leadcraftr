@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-legal.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![Is Lead Generation Legal?](/media/is-lead-generation-legal.webp)

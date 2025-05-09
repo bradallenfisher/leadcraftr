@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/looking-for-more-lead-gen-tips.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Looking for More Lead Gen Tips?](/media/looking-for-more-lead-gen-tips.webp)

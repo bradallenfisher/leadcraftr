@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-lead-generation-is-the-best.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Why Lead Generation Is the Best](/media/why-lead-generation-is-the-best.webp)

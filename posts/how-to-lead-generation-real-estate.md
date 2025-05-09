@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-to-lead-generation-real-estate.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![How to Lead Generation Real Estate](/media/how-to-lead-generation-real-estate.webp)

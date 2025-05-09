@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-do-businesses-need-lead-generation-programs.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Why Do Businesses Need Lead Generation Programs?](/media/why-do-businesses-need-lead-generation-programs.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-lead-generation-works-a-complete-overview.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![How Lead Generation Works: A Complete Overview](/media/how-lead-generation-works-a-complete-overview.webp)

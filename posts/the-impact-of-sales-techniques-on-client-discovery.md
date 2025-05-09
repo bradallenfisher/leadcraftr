@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/the-impact-of-sales-techniques-on-client-discovery.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![The Impact of Sales Techniques on Client Discovery](/media/the-impact-of-sales-techniques-on-client-discovery.webp)

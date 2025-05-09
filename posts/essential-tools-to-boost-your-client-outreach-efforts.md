@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/essential-tools-to-boost-your-client-outreach-efforts.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Essential Tools to Boost Your Client Outreach Efforts](/media/essential-tools-to-boost-your-client-outreach-efforts.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-the-most-common-lead-generation-challenges.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![What Are the Most Common Lead Generation Challenges?](/media/what-are-the-most-common-lead-generation-challenges.webp)

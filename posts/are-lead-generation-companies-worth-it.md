@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/are-lead-generation-companies-worth-it.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Are Lead Generation Companies Worth It?](/media/are-lead-generation-companies-worth-it.webp)

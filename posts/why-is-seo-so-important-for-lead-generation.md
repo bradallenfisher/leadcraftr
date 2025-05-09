@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-is-seo-so-important-for-lead-generation.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Why Is Seo So Important for Lead Generation?](/media/why-is-seo-so-important-for-lead-generation.webp)

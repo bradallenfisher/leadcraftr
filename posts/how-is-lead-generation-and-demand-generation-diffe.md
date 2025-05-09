@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-is-lead-generation-and-demand-generation-different.webp"
 tags:
   - post
+  - business growth
 ---
 
 ![How Is Lead Generation and Demand Generation Different?](/media/how-is-lead-generation-and-demand-generation-different.webp)

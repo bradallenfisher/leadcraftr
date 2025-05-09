@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-b2b-lead-generation.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![What Is B2b Lead Generation?](/media/what-is-b2b-lead-generation.webp)

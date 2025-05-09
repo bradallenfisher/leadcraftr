@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-a-lead-generation-tool.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![What Is A Lead Generation Tool?](/media/what-is-a-lead-generation-tool.webp)

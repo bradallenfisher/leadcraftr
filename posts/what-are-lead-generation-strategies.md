@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-lead-generation-strategies.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![What Are Lead Generation Strategies?](/media/what-are-lead-generation-strategies.webp)

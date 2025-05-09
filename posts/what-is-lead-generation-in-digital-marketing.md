@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-lead-generation-in-digital-marketing.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![What Is Lead Generation in Digital Marketing?](/media/what-is-lead-generation-in-digital-marketing.webp)

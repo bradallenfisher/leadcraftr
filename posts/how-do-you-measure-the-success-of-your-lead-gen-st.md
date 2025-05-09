@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-you-measure-the-success-of-your-lead-gen-strategy.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![How Do You Measure the Success of Your Lead Gen Strategy?](/media/how-do-you-measure-the-success-of-your-lead-gen-strategy.webp)

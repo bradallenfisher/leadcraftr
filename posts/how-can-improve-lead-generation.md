@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-can-you-improve-lead-generation.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![How Can You Improve Lead Generation?](/media/how-can-you-improve-lead-generation.webp)

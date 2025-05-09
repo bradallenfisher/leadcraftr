@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/why-is-lead-generation-important-for-brands.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![Why Is Lead Generation Important for Brands?](/media/why-is-lead-generation-important-for-brands.webp)

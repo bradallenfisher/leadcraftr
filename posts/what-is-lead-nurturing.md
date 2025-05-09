@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-lead-nurturing.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![What Is Lead Nurturing?](/media/what-is-lead-nurturing.webp)

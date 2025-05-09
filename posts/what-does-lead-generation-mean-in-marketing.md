@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-does-lead-generation-mean-in-marketing.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![What Does Lead Generation Mean in Marketing?](/media/what-does-lead-generation-mean-in-marketing.webp)

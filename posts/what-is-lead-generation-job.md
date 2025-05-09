@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-a-lead-generation-job.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![What Is A Lead Generation Job?](/media/what-is-a-lead-generation-job.webp)

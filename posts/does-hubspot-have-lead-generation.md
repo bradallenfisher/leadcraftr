@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/does-hubspot-have-lead-generation.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![Does Hubspot Have Lead Generation?](/media/does-hubspot-have-lead-generation.webp)

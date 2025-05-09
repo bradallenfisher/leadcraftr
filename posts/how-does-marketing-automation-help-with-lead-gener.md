@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-does-marketing-automation-help-with-lead-generation.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![How Does Marketing Automation Help with Lead Generation?](/media/how-does-marketing-automation-help-with-lead-generation.webp)

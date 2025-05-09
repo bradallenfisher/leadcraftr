@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-you-automate-lead-generation.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![How Do You Automate Lead Generation?](/media/how-do-you-automate-lead-generation.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/will-writing-lead-generation.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Will Writing Lead Generation](/media/will-writing-lead-generation.webp)

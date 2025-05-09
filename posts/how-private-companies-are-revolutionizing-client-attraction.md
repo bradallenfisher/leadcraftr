@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/how-private-companies-are-revolutionizing-client-attraction.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![How Private Companies Are Revolutionizing Client Attraction](/media/how-private-companies-are-revolutionizing-client-attraction.webp)

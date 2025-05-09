@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-the-types-of-lead-generation.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![What Are the Types of Lead Generation?](/media/what-are-the-types-of-lead-generation.webp)

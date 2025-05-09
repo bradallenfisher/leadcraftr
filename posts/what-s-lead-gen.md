@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-s-lead-gen.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![What’s Lead Gen?](/media/what-s-lead-gen.webp)

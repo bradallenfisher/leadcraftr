@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/navigating-facebook-s-policies-for-effective-client-capture.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![Navigating Facebook's Policies for Effective Client Capture](/media/navigating-facebook-s-policies-for-effective-client-capture.webp)

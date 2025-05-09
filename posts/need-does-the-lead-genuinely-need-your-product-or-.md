@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/does-the-lead-genuinely-need-your-product-or-service.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![Does the Lead Genuinely Need Your Product or Service?](/media/does-the-lead-genuinely-need-your-product-or-service.webp)

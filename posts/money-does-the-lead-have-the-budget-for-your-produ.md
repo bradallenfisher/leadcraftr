@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/money-does-the-lead-have-the-budget-for-your-product-or-service.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![Money: Does the Lead Have the Budget for Your Product or Service?](/media/money-does-the-lead-have-the-budget-for-your-product-or-service.webp)

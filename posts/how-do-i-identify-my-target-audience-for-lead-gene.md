@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-i-identify-my-target-audience-for-lead-generation.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![How Do I Identify My Target Audience for Lead Generation?](/media/how-do-i-identify-my-target-audience-for-lead-generation.webp)

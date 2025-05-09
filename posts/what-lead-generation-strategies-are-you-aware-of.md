@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-lead-generation-strategies-are-you-aware-of.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![What Lead Generation Strategies Are You Aware Of?](/media/what-lead-generation-strategies-are-you-aware-of.webp)

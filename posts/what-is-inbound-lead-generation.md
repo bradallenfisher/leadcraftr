@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-inbound-lead-generation.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![What Is Inbound Lead Generation?](/media/what-is-inbound-lead-generation.webp)

@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/assessing-the-simplicity-of-generating-qualified-interest.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Assessing the Simplicity of Generating Qualified Interest](/media/assessing-the-simplicity-of-generating-qualified-interest.webp)

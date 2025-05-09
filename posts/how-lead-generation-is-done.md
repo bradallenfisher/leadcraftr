@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-lead-generation-is-done.webp"
 tags:
   - post
+  - sales funnel
 ---
 
 ![How Lead Generation Is Done](/media/how-lead-generation-is-done.webp)

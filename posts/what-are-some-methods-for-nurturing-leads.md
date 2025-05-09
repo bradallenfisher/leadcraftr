@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-some-methods-for-nurturing-leads.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![What Are Some Methods for Nurturing Leads?](/media/what-are-some-methods-for-nurturing-leads.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-the-role-of-lead-generation.webp"
 tags:
   - post
+  - conversion rate
 ---
 
 ![What Is the Role of Lead Generation?](/media/what-is-the-role-of-lead-generation.webp)

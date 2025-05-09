@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-lead-generation-companies-work.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![How Lead Generation Companies Work](/media/how-lead-generation-companies-work.webp)

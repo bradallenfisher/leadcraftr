@@ -111,3 +111,40 @@ table, th, td {
   color: #666;
   font-size: 0.875rem;
 }
+/* Tag styling */
+.post-tags {
+  margin-left: 1rem;
+}
+
+.post-tag {
+  display: inline-block;
+  background-color: #f1f1f1;
+  color: #333;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  margin-right: 0.5rem;
+  text-decoration: none;
+}
+
+.post-tag:hover {
+  background-color: #ddd;
+}
+
+.tags-list {
+  list-style: none;
+  padding: 0;
+}
+
+.tags-list li {
+  margin-bottom: 0.5rem;
+}
+
+.posts-list {
+  list-style: none;
+  padding: 0;
+}
+
+.posts-list li {
+  margin-bottom: 1rem;
+}

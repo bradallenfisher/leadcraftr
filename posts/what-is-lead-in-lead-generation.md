@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-a-lead-in-lead-generation.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![What Is A Lead in Lead Generation?](/media/what-is-a-lead-in-lead-generation.webp)

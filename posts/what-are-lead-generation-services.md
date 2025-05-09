@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-are-lead-generation-services.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![What Are Lead Generation Services?](/media/what-are-lead-generation-services.webp)

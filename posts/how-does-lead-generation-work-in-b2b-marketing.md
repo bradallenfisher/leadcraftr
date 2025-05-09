@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-does-lead-generation-work-in-b2b-marketing.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![How Does Lead Generation Work in B2b Marketing?](/media/how-does-lead-generation-work-in-b2b-marketing.webp)

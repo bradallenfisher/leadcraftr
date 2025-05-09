@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-do-lead-generation-companies-make-money.webp"
 tags:
   - post
+  - digital marketing
 ---
 
 ![How Do Lead Generation Companies Make Money?](/media/how-do-lead-generation-companies-make-money.webp)

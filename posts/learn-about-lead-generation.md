@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/learn-about-lead-generation.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Learn About Lead Generation](/media/learn-about-lead-generation.webp)

@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/is-lead-generation-a-good-business.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Is Lead Generation A Good Business?](/media/is-lead-generation-a-good-business.webp)

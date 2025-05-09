@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/how-b2b-lead-generation-works.webp"
 tags:
   - post
+  - online leads
 ---
 
 ![How B2b Lead Generation Works](/media/how-b2b-lead-generation-works.webp)

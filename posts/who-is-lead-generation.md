@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/who-is-lead-generation.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Who Is Lead Generation?](/media/who-is-lead-generation.webp)

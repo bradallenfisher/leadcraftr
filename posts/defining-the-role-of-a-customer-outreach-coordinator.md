@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/defining-the-role-of-a-customer-outreach-coordinator.webp"
 tags:
   - post
+  - lead generation
 ---
 
 ![Defining the Role of A Customer Outreach Coordinator](/media/defining-the-role-of-a-customer-outreach-coordinator.webp)

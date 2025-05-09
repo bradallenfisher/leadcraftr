@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/does-your-sales-team-only-work-in-your-crm.webp"
 tags:
   - post
+  - marketing automation
 ---
 
 ![Does Your Sales Team Only Work in Your Crm?](/media/does-your-sales-team-only-work-in-your-crm.webp)

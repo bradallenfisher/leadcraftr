@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/does-your-marketing-team-have-the-required-marketing-skills.webp"
 tags:
   - post
+  - customer acquisition
 ---
 
 ![Does Your Marketing Team Have the Required Marketing Skills?](/media/does-your-marketing-team-have-the-required-marketing-skills.webp)

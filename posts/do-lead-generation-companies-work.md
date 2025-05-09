@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/do-lead-generation-companies-work.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![Do Lead Generation Companies Work?](/media/do-lead-generation-companies-work.webp)

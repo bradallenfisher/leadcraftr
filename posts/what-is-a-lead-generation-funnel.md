@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/what-is-a-lead-generation-funnel.webp"
 tags:
   - post
+  - marketing strategy
 ---
 
 ![What Is A Lead Generation Funnel?](/media/what-is-a-lead-generation-funnel.webp)

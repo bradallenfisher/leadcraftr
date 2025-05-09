@@ -4,6 +4,7 @@ date: 2025-05-07
 image: "/media/career-insights-is-client-acquisition-the-right-path-for-you.webp"
 tags:
   - post
+  - business growth
 ---
 
 ![Career Insights: Is Client Acquisition the Right Path for You?](/media/career-insights-is-client-acquisition-the-right-path-for-you.webp)

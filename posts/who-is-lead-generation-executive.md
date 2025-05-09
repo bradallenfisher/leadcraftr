@@ -4,6 +4,7 @@ date: 2025-05-08
 image: "/media/who-is-a-lead-generation-executive.webp"
 tags:
   - post
+  - email marketing
 ---
 
 ![Who Is A Lead Generation Executive?](/media/who-is-a-lead-generation-executive.webp)
