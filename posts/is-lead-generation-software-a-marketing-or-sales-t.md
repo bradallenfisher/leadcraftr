@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation Software A Marketing or Sales Tool?"
-date: 2025-05-08
+date: 2024-09-11
 image: "/media/is-lead-generation-software-a-marketing-or-sales-tool.webp"
 tags:
   - post

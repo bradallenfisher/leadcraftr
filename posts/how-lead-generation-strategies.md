@@ -1,6 +1,6 @@
 ---
 title: "How Lead Generation Strategies Work"
-date: 2025-05-08
+date: 2025-03-08
 image: "/media/how-lead-generation-strategies-work.webp"
 tags:
   - post

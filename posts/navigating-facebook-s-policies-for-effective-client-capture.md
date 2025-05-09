@@ -1,6 +1,6 @@
 ---
 title: "Navigating Facebook's Policies for Effective Client Capture"
-date: 2025-05-07
+date: 2024-06-25
 image: "/media/navigating-facebook-s-policies-for-effective-client-capture.webp"
 tags:
   - post

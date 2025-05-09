@@ -1,6 +1,6 @@
 ---
 title: "Is Free or Paid Lead Generation Software Better?"
-date: 2025-05-08
+date: 2024-06-30
 image: "/media/is-free-or-paid-lead-generation-software-better.webp"
 tags:
   - post

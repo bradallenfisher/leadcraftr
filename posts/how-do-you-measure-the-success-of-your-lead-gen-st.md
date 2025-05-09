@@ -1,6 +1,6 @@
 ---
 title: "How Do You Measure the Success of Your Lead Gen Strategy?"
-date: 2025-05-08
+date: 2024-12-12
 image: "/media/how-do-you-measure-the-success-of-your-lead-gen-strategy.webp"
 tags:
   - post

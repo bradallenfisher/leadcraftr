@@ -1,6 +1,6 @@
 ---
 title: "Day-to-day Responsibilities of A Client Acquisition Specialist"
-date: 2025-05-07
+date: 2024-08-15
 image: "/media/day-to-day-responsibilities-of-a-client-acquisition-specialist.webp"
 tags:
   - post

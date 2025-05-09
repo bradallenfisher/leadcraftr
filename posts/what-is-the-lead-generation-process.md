@@ -1,6 +1,6 @@
 ---
 title: "What Is the Lead Generation Process?"
-date: 2025-05-08
+date: 2024-07-19
 image: "/media/what-is-the-lead-generation-process.webp"
 tags:
   - post

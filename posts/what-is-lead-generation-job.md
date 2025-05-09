@@ -1,6 +1,6 @@
 ---
 title: "What Is A Lead Generation Job?"
-date: 2025-05-08
+date: 2025-02-15
 image: "/media/what-is-a-lead-generation-job.webp"
 tags:
   - post

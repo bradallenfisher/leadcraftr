@@ -1,6 +1,6 @@
 ---
 title: "How to Do Lead Generation on Linkedin"
-date: 2025-05-08
+date: 2025-04-26
 image: "/media/how-to-do-lead-generation-on-linkedin.webp"
 tags:
   - post

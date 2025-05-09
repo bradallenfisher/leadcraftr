@@ -1,6 +1,6 @@
 ---
 title: "How Do You Generate Leads?"
-date: 2025-05-08
+date: 2024-11-24
 image: "/media/how-do-you-generate-leads.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "What Are the Current Trends in Lead Generation?"
-date: 2025-05-08
+date: 2024-10-15
 image: "/media/what-are-the-current-trends-in-lead-generation.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Exploring the Viability of Customer Acquisition As A Profitable Venture"
-date: 2025-05-07
+date: 2024-11-26
 image: "/media/exploring-the-viability-of-customer-acquisition-as-a-profitable-venture.webp"
 tags:
   - post

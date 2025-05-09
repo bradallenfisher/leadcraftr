@@ -1,6 +1,6 @@
 ---
 title: "Optimal Placement for Contact Information on Conversion Sites"
-date: 2025-05-07
+date: 2024-09-08
 image: "/media/optimal-placement-for-contact-information-on-conversion-sites.webp"
 tags:
   - post

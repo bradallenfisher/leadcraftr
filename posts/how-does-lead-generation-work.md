@@ -1,6 +1,6 @@
 ---
 title: "How Does Lead Generation Work?"
-date: 2025-05-08
+date: 2024-09-26
 image: "/media/how-does-lead-generation-work.webp"
 tags:
   - post

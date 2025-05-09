@@ -1,6 +1,6 @@
 ---
 title: "How Lead Generation Works: A Complete Overview"
-date: 2025-05-08
+date: 2024-04-25
 image: "/media/how-lead-generation-works-a-complete-overview.webp"
 tags:
   - post

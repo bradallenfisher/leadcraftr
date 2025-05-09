@@ -1,6 +1,6 @@
 ---
 title: "What Is Outbound Lead Generation?"
-date: 2025-05-08
+date: 2025-01-22
 image: "/media/what-is-outbound-lead-generation.webp"
 tags:
   - post

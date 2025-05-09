@@ -1,6 +1,6 @@
 ---
 title: "Who Is Lead Generation?"
-date: 2025-05-08
+date: 2024-05-09
 image: "/media/who-is-lead-generation.webp"
 tags:
   - post

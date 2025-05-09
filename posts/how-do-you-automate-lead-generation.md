@@ -1,6 +1,6 @@
 ---
 title: "How Do You Automate Lead Generation?"
-date: 2025-05-08
+date: 2024-09-11
 image: "/media/how-do-you-automate-lead-generation.webp"
 tags:
   - post

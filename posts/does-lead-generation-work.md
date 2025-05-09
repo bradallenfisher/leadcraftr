@@ -1,6 +1,6 @@
 ---
 title: "Does Lead Generation Work?"
-date: 2025-05-08
+date: 2025-04-16
 image: "/media/does-lead-generation-work.webp"
 tags:
   - post

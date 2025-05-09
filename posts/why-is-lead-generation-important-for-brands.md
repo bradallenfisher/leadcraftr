@@ -1,6 +1,6 @@
 ---
 title: "Why Is Lead Generation Important for Brands?"
-date: 2025-05-08
+date: 2025-01-26
 image: "/media/why-is-lead-generation-important-for-brands.webp"
 tags:
   - post

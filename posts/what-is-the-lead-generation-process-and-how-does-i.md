@@ -1,6 +1,6 @@
 ---
 title: "What Is the Lead Generation Process, and How Does It Work?"
-date: 2025-05-08
+date: 2024-06-12
 image: "/media/what-is-the-lead-generation-process-and-how-does-it-work.webp"
 tags:
   - post

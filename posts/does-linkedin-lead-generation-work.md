@@ -1,6 +1,6 @@
 ---
 title: "Does Linkedin Lead Generation Work?"
-date: 2025-05-08
+date: 2024-07-09
 image: "/media/does-linkedin-lead-generation-work.webp"
 tags:
   - post

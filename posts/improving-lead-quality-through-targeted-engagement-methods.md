@@ -1,6 +1,6 @@
 ---
 title: "Improving Lead Quality Through Targeted Engagement Methods"
-date: 2025-05-07
+date: 2025-03-12
 image: "/media/improving-lead-quality-through-targeted-engagement-methods.webp"
 tags:
   - post

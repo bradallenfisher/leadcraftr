@@ -1,6 +1,6 @@
 ---
 title: "What Is the Difference Between B2b and B2c Lead Generation?"
-date: 2025-05-08
+date: 2024-10-13
 image: "/media/what-is-the-difference-between-b2b-and-b2c-lead-generation.webp"
 tags:
   - post

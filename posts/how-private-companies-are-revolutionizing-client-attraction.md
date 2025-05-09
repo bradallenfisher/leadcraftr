@@ -1,6 +1,6 @@
 ---
 title: "How Private Companies Are Revolutionizing Client Attraction"
-date: 2025-05-07
+date: 2025-04-22
 image: "/media/how-private-companies-are-revolutionizing-client-attraction.webp"
 tags:
   - post

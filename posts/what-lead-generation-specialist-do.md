@@ -1,6 +1,6 @@
 ---
 title: "What Does A Lead Generation Specialist Do?"
-date: 2025-05-08
+date: 2025-03-21
 image: "/media/what-does-a-lead-generation-specialist-do.webp"
 tags:
   - post

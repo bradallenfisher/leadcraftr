@@ -1,6 +1,6 @@
 ---
 title: "Does Your Sales Team Only Work in Your Crm?"
-date: 2025-05-08
+date: 2025-03-07
 image: "/media/does-your-sales-team-only-work-in-your-crm.webp"
 tags:
   - post

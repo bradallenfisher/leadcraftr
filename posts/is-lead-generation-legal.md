@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation Legal?"
-date: 2025-05-08
+date: 2025-02-08
 image: "/media/is-lead-generation-legal.webp"
 tags:
   - post

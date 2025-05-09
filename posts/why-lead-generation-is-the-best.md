@@ -1,6 +1,6 @@
 ---
 title: "Why Lead Generation Is the Best"
-date: 2025-05-08
+date: 2024-04-17
 image: "/media/why-lead-generation-is-the-best.webp"
 tags:
   - post

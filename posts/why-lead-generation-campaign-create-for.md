@@ -1,6 +1,6 @@
 ---
 title: "Why Are Lead Generation Campaigns Created?"
-date: 2025-05-08
+date: 2024-11-24
 image: "/media/why-are-lead-generation-campaigns-created.webp"
 tags:
   - post

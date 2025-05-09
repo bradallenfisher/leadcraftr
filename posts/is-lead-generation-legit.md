@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation Legit?"
-date: 2025-05-08
+date: 2024-05-20
 image: "/media/is-lead-generation-legit.webp"
 tags:
   - post

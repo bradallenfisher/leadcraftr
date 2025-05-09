@@ -1,6 +1,6 @@
 ---
 title: "Comprehensive Overview of Customer Capture Fundamentals"
-date: 2025-05-07
+date: 2024-10-19
 image: "/media/comprehensive-overview-of-customer-capture-fundamentals.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Does Your Marketing Team Have the Required Marketing Skills?"
-date: 2025-05-08
+date: 2025-01-14
 image: "/media/does-your-marketing-team-have-the-required-marketing-skills.webp"
 tags:
   - post

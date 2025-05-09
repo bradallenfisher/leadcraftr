@@ -1,6 +1,6 @@
 ---
 title: "Will Writing Lead Generation"
-date: 2025-05-08
+date: 2024-09-15
 image: "/media/will-writing-lead-generation.webp"
 tags:
   - post

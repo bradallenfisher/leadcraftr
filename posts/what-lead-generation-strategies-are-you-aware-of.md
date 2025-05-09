@@ -1,6 +1,6 @@
 ---
 title: "What Lead Generation Strategies Are You Aware Of?"
-date: 2025-05-08
+date: 2025-03-02
 image: "/media/what-lead-generation-strategies-are-you-aware-of.webp"
 tags:
   - post

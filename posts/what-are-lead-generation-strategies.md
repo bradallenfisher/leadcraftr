@@ -1,6 +1,6 @@
 ---
 title: "What Are Lead Generation Strategies?"
-date: 2025-05-08
+date: 2024-09-09
 image: "/media/what-are-lead-generation-strategies.webp"
 tags:
   - post

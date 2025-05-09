@@ -1,6 +1,6 @@
 ---
 title: "Learn About Lead Generation"
-date: 2025-05-08
+date: 2024-04-25
 image: "/media/learn-about-lead-generation.webp"
 tags:
   - post

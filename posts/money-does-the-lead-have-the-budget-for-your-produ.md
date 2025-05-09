@@ -1,6 +1,6 @@
 ---
 title: "Money: Does the Lead Have the Budget for Your Product or Service?"
-date: 2025-05-08
+date: 2024-05-07
 image: "/media/money-does-the-lead-have-the-budget-for-your-product-or-service.webp"
 tags:
   - post

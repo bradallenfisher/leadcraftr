@@ -1,6 +1,6 @@
 ---
 title: "Can You Be Sure That the Potential Customer Prefers the Channel You're Using?"
-date: 2025-05-08
+date: 2025-01-09
 image: "/media/can-you-be-sure-that-the-potential-customer-prefers-the-channel-you-re-using.webp"
 tags:
   - post

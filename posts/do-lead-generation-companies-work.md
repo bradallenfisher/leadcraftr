@@ -1,6 +1,6 @@
 ---
 title: "Do Lead Generation Companies Work?"
-date: 2025-05-08
+date: 2025-02-18
 image: "/media/do-lead-generation-companies-work.webp"
 tags:
   - post

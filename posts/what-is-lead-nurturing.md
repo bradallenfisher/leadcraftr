@@ -1,6 +1,6 @@
 ---
 title: "What Is Lead Nurturing?"
-date: 2025-05-08
+date: 2024-08-19
 image: "/media/what-is-lead-nurturing.webp"
 tags:
   - post

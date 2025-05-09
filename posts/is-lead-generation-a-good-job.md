@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation A Good Job?"
-date: 2025-05-08
+date: 2024-05-04
 image: "/media/is-lead-generation-a-good-job.webp"
 tags:
   - post

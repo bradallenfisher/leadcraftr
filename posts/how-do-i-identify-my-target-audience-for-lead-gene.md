@@ -1,6 +1,6 @@
 ---
 title: "How Do I Identify My Target Audience for Lead Generation?"
-date: 2025-05-08
+date: 2024-07-25
 image: "/media/how-do-i-identify-my-target-audience-for-lead-generation.webp"
 tags:
   - post

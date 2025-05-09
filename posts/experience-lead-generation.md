@@ -1,6 +1,6 @@
 ---
 title: "What Is Experience Lead Generation?"
-date: 2025-05-08
+date: 2025-02-28
 image: "/media/what-is-experience-lead-generation.webp"
 tags:
   - post

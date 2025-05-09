@@ -1,6 +1,6 @@
 ---
 title: "What Is Lead Generation in Digital Marketing?"
-date: 2025-05-08
+date: 2024-10-11
 image: "/media/what-is-lead-generation-in-digital-marketing.webp"
 tags:
   - post

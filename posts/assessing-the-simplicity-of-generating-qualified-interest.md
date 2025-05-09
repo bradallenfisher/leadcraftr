@@ -1,6 +1,6 @@
 ---
 title: "Assessing the Simplicity of Generating Qualified Interest"
-date: 2025-05-07
+date: 2024-10-10
 image: "/media/assessing-the-simplicity-of-generating-qualified-interest.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Does Lead Generation Make Money?"
-date: 2025-05-08
+date: 2025-05-04
 image: "/media/does-lead-generation-make-money.webp"
 tags:
   - post

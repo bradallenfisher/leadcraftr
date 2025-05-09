@@ -1,6 +1,6 @@
 ---
 title: "Can We Connect Lead Generation Form on Meta to Google Sheet?"
-date: 2025-05-08
+date: 2024-06-03
 image: "/media/can-we-connect-lead-generation-form-on-meta-to-google-sheet.webp"
 tags:
   - post

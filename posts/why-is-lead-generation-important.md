@@ -1,6 +1,6 @@
 ---
 title: "Why Is Lead Generation Important?"
-date: 2025-05-08
+date: 2024-05-31
 image: "/media/why-is-lead-generation-important.webp"
 tags:
   - post

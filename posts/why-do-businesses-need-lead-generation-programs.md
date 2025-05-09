@@ -1,6 +1,6 @@
 ---
 title: "Why Do Businesses Need Lead Generation Programs?"
-date: 2025-05-08
+date: 2025-02-16
 image: "/media/why-do-businesses-need-lead-generation-programs.webp"
 tags:
   - post

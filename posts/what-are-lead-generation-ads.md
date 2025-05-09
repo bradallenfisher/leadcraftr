@@ -1,6 +1,6 @@
 ---
 title: "What Are Lead Generation Ads?"
-date: 2025-05-08
+date: 2024-09-23
 image: "/media/what-are-lead-generation-ads.webp"
 tags:
   - post

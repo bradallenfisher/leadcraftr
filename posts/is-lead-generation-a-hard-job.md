@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation A Hard Job?"
-date: 2025-05-08
+date: 2024-12-13
 image: "/media/is-lead-generation-a-hard-job.webp"
 tags:
   - post

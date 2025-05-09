@@ -1,6 +1,6 @@
 ---
 title: "What’s Lead Gen?"
-date: 2025-05-08
+date: 2025-03-27
 image: "/media/what-s-lead-gen.webp"
 tags:
   - post

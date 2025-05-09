@@ -1,6 +1,6 @@
 ---
 title: "How Does Marketing Automation Help with Lead Generation?"
-date: 2025-05-08
+date: 2024-11-10
 image: "/media/how-does-marketing-automation-help-with-lead-generation.webp"
 tags:
   - post

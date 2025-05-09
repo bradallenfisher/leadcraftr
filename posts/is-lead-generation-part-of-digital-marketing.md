@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation Part of Digital Marketing?"
-date: 2025-05-08
+date: 2024-08-10
 image: "/media/is-lead-generation-part-of-digital-marketing.webp"
 tags:
   - post

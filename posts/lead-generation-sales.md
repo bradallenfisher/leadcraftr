@@ -1,6 +1,6 @@
 ---
 title: "What Is Lead Generation in Sales?"
-date: 2025-05-08
+date: 2024-10-20
 image: "/media/what-is-lead-generation-in-sales.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Essential Tools to Boost Your Client Outreach Efforts"
-date: 2025-05-07
+date: 2024-07-29
 image: "/media/essential-tools-to-boost-your-client-outreach-efforts.webp"
 tags:
   - post

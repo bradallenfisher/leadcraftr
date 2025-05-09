@@ -1,6 +1,6 @@
 ---
 title: "What Is the First Step in Lead Generation?"
-date: 2025-05-08
+date: 2024-06-08
 image: "/media/what-is-the-first-step-in-lead-generation.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Who Is A Lead Generation Expert?"
-date: 2025-05-08
+date: 2025-02-27
 image: "/media/who-is-a-lead-generation-expert.webp"
 tags:
   - post

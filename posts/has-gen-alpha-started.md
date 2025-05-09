@@ -1,6 +1,6 @@
 ---
 title: "Has Gen Alpha Started?"
-date: 2025-05-08
+date: 2024-08-11
 image: "/media/has-gen-alpha-started.webp"
 tags:
   - post

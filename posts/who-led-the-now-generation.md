@@ -1,6 +1,6 @@
 ---
 title: "Who Led the Now Generation?"
-date: 2025-05-08
+date: 2024-04-11
 image: "/media/who-led-the-now-generation.webp"
 tags:
   - post

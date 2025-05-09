@@ -1,6 +1,6 @@
 ---
 title: "Defining the Role of A Customer Outreach Coordinator"
-date: 2025-05-07
+date: 2024-05-10
 image: "/media/defining-the-role-of-a-customer-outreach-coordinator.webp"
 tags:
   - post

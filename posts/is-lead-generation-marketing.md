@@ -1,6 +1,6 @@
 ---
 title: "What Is Lead Generation Marketing?"
-date: 2025-05-08
+date: 2024-07-07
 image: "/media/what-is-lead-generation-marketing.webp"
 tags:
   - post

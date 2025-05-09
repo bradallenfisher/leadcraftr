@@ -1,6 +1,6 @@
 ---
 title: "What Is A Lead Generation Funnel?"
-date: 2025-05-08
+date: 2025-02-03
 image: "/media/what-is-a-lead-generation-funnel.webp"
 tags:
   - post

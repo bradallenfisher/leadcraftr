@@ -1,6 +1,6 @@
 ---
 title: "What Are Lead Generation Tools?"
-date: 2025-05-08
+date: 2025-05-05
 image: "/media/what-are-lead-generation-tools.webp"
 tags:
   - post

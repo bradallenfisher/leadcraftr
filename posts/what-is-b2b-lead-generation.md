@@ -1,6 +1,6 @@
 ---
 title: "What Is B2b Lead Generation?"
-date: 2025-05-08
+date: 2024-04-14
 image: "/media/what-is-b2b-lead-generation.webp"
 tags:
   - post

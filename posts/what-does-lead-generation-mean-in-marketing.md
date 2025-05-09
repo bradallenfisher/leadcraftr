@@ -1,6 +1,6 @@
 ---
 title: "What Does Lead Generation Mean in Marketing?"
-date: 2025-05-08
+date: 2024-11-19
 image: "/media/what-does-lead-generation-mean-in-marketing.webp"
 tags:
   - post

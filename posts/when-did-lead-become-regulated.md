@@ -1,6 +1,6 @@
 ---
 title: "When Did Lead Become Regulated?"
-date: 2025-05-08
+date: 2024-04-07
 image: "/media/when-did-lead-become-regulated.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Where Should I Place the Phone Number on A Lead Generation Website?"
-date: 2025-05-08
+date: 2024-06-01
 image: "/media/where-should-i-place-the-phone-number-on-a-lead-generation-website.webp"
 tags:
   - post

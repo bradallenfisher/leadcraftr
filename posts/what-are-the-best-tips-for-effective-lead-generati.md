@@ -1,6 +1,6 @@
 ---
 title: "What Are the Best Tips for Effective Lead Generation?"
-date: 2025-05-08
+date: 2025-03-31
 image: "/media/what-are-the-best-tips-for-effective-lead-generation.webp"
 tags:
   - post

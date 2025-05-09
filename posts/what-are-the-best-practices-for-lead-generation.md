@@ -1,6 +1,6 @@
 ---
 title: "What Are the Best Practices for Lead Generation?"
-date: 2025-05-08
+date: 2024-08-02
 image: "/media/what-are-the-best-practices-for-lead-generation.webp"
 tags:
   - post

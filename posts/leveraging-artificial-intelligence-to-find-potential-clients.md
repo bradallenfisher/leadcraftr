@@ -1,6 +1,6 @@
 ---
 title: "Leveraging Artificial Intelligence to Find Potential Clients"
-date: 2025-05-07
+date: 2024-05-06
 image: "/media/leveraging-artificial-intelligence-to-find-potential-clients.webp"
 tags:
   - post

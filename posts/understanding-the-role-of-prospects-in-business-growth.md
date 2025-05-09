@@ -1,6 +1,6 @@
 ---
 title: "Understanding the Role of Prospects in Business Growth"
-date: 2025-05-07
+date: 2024-09-22
 image: "/media/understanding-the-role-of-prospects-in-business-growth.webp"
 tags:
   - post

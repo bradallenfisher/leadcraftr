@@ -1,6 +1,6 @@
 ---
 title: "What Is Lead Generation Software?"
-date: 2025-05-08
+date: 2024-11-17
 image: "/media/what-is-lead-generation-software.webp"
 tags:
   - post

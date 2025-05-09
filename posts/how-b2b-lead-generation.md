@@ -1,6 +1,6 @@
 ---
 title: "How B2b Lead Generation Works"
-date: 2025-05-08
+date: 2025-04-26
 image: "/media/how-b2b-lead-generation-works.webp"
 tags:
   - post

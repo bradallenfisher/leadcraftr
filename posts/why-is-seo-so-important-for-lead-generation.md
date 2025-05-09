@@ -1,6 +1,6 @@
 ---
 title: "Why Is Seo So Important for Lead Generation?"
-date: 2025-05-08
+date: 2024-08-25
 image: "/media/why-is-seo-so-important-for-lead-generation.webp"
 tags:
   - post

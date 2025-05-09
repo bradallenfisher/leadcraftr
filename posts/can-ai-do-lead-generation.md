@@ -1,6 +1,6 @@
 ---
 title: "Can Ai Do Lead Generation?"
-date: 2025-05-08
+date: 2025-04-13
 image: "/media/can-ai-do-lead-generation.webp"
 tags:
   - post

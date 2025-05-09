@@ -1,6 +1,6 @@
 ---
 title: "Do You Have Lead Generation Experience? Meaning Explained"
-date: 2025-05-08
+date: 2025-04-03
 image: "/media/do-you-have-lead-generation-experience-meaning-explained.webp"
 tags:
   - post

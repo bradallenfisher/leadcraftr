@@ -1,6 +1,6 @@
 ---
 title: "What Is the Best Lead Generation Tool?"
-date: 2025-05-08
+date: 2024-04-13
 image: "/media/what-is-the-best-lead-generation-tool.webp"
 tags:
   - post

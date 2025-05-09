@@ -1,6 +1,6 @@
 ---
 title: "What Is an Example of Lead Generation?"
-date: 2025-05-08
+date: 2025-01-24
 image: "/media/what-is-an-example-of-lead-generation.webp"
 tags:
   - post

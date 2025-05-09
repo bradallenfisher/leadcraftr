@@ -1,6 +1,6 @@
 ---
 title: "Why Use Linkedin for Lead Generation?"
-date: 2025-05-08
+date: 2024-06-02
 image: "/media/why-use-linkedin-for-lead-generation.webp"
 tags:
   - post

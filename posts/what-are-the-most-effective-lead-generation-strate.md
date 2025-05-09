@@ -1,6 +1,6 @@
 ---
 title: "What Are the Most Effective Lead Generation Strategies?"
-date: 2025-05-08
+date: 2024-09-26
 image: "/media/what-are-the-most-effective-lead-generation-strategies.webp"
 tags:
   - post

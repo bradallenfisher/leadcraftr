@@ -1,6 +1,6 @@
 ---
 title: "What Does Lead Generation Mean?"
-date: 2025-05-08
+date: 2024-05-28
 image: "/media/what-does-lead-generation-mean.webp"
 tags:
   - post

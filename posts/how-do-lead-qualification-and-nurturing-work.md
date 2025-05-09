@@ -1,6 +1,6 @@
 ---
 title: "How Do Lead Qualification and Nurturing Work?"
-date: 2025-05-08
+date: 2024-11-13
 image: "/media/how-do-lead-qualification-and-nurturing-work.webp"
 tags:
   - post

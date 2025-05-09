@@ -1,6 +1,6 @@
 ---
 title: "How Do You Improve Lead Quality?"
-date: 2025-05-08
+date: 2024-12-26
 image: "/media/how-do-you-improve-lead-quality.webp"
 tags:
   - post

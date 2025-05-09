@@ -1,6 +1,6 @@
 ---
 title: "Career Insights: Is Client Acquisition the Right Path for You?"
-date: 2025-05-07
+date: 2024-11-11
 image: "/media/career-insights-is-client-acquisition-the-right-path-for-you.webp"
 tags:
   - post

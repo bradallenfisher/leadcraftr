@@ -1,6 +1,6 @@
 ---
 title: "Looking for More Lead Gen Tips?"
-date: 2025-05-08
+date: 2025-01-04
 image: "/media/looking-for-more-lead-gen-tips.webp"
 tags:
   - post

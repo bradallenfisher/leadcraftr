@@ -1,6 +1,6 @@
 ---
 title: "Does the Lead Genuinely Need Your Product or Service?"
-date: 2025-05-08
+date: 2025-05-07
 image: "/media/does-the-lead-genuinely-need-your-product-or-service.webp"
 tags:
   - post

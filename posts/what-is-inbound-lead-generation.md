@@ -1,6 +1,6 @@
 ---
 title: "What Is Inbound Lead Generation?"
-date: 2025-05-08
+date: 2024-11-11
 image: "/media/what-is-inbound-lead-generation.webp"
 tags:
   - post

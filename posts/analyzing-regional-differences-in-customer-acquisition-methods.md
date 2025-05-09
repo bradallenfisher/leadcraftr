@@ -1,6 +1,6 @@
 ---
 title: "Analyzing Regional Differences in Customer Acquisition Methods"
-date: 2025-05-07
+date: 2025-01-13
 image: "/media/analyzing-regional-differences-in-customer-acquisition-methods.webp"
 tags:
   - post

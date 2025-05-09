@@ -1,6 +1,6 @@
 ---
 title: "How Do Lead Generation Platforms Work?"
-date: 2025-05-08
+date: 2024-04-23
 image: "/media/how-do-lead-generation-platforms-work.webp"
 tags:
   - post

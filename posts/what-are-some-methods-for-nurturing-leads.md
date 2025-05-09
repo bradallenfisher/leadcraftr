@@ -1,6 +1,6 @@
 ---
 title: "What Are Some Methods for Nurturing Leads?"
-date: 2025-05-08
+date: 2024-07-17
 image: "/media/what-are-some-methods-for-nurturing-leads.webp"
 tags:
   - post

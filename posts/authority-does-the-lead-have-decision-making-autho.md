@@ -1,6 +1,6 @@
 ---
 title: "Authority: Does the Lead Have Decision-making Authority?"
-date: 2025-05-08
+date: 2024-04-21
 image: "/media/authority-does-the-lead-have-decision-making-authority.webp"
 tags:
   - post

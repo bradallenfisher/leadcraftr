@@ -1,6 +1,6 @@
 ---
 title: "What Is the Best Example of Lead Generation?"
-date: 2025-05-08
+date: 2024-05-18
 image: "/media/what-is-the-best-example-of-lead-generation.webp"
 tags:
   - post

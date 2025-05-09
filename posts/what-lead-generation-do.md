@@ -1,6 +1,6 @@
 ---
 title: "What Does Lead Generation Do?"
-date: 2025-05-08
+date: 2024-08-04
 image: "/media/what-does-lead-generation-do.webp"
 tags:
   - post

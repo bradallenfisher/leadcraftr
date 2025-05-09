@@ -1,6 +1,6 @@
 ---
 title: "Do You Have Lead Generation Experience?"
-date: 2025-05-08
+date: 2024-05-12
 image: "/media/do-you-have-lead-generation-experience.webp"
 tags:
   - post

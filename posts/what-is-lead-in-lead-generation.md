@@ -1,6 +1,6 @@
 ---
 title: "What Is A Lead in Lead Generation?"
-date: 2025-05-08
+date: 2024-09-06
 image: "/media/what-is-a-lead-in-lead-generation.webp"
 tags:
   - post

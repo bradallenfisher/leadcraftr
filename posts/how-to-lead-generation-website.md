@@ -1,6 +1,6 @@
 ---
 title: "How to Create A Lead Generation Website"
-date: 2025-05-08
+date: 2025-01-31
 image: "/media/how-to-create-a-lead-generation-website.webp"
 tags:
   - post

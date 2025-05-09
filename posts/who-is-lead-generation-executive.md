@@ -1,6 +1,6 @@
 ---
 title: "Who Is A Lead Generation Executive?"
-date: 2025-05-08
+date: 2024-09-03
 image: "/media/who-is-a-lead-generation-executive.webp"
 tags:
   - post

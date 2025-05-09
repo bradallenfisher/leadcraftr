@@ -1,6 +1,6 @@
 ---
 title: "Why Lead Generation?"
-date: 2025-05-08
+date: 2025-02-10
 image: "/media/why-lead-generation.webp"
 tags:
   - post

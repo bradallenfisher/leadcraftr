@@ -1,6 +1,6 @@
 ---
 title: "Is Lead Generation Easy?"
-date: 2025-05-08
+date: 2025-04-29
 image: "/media/is-lead-generation-easy.webp"
 tags:
   - post

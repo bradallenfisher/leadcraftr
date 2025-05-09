@@ -1,6 +1,6 @@
 ---
 title: "What Is the Role of Lead Generation in Digital Marketing?"
-date: 2025-05-08
+date: 2024-05-14
 image: "/media/what-is-the-role-of-lead-generation-in-digital-marketing.webp"
 tags:
   - post

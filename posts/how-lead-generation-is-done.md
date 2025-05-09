@@ -1,6 +1,6 @@
 ---
 title: "How Lead Generation Is Done"
-date: 2025-05-08
+date: 2025-05-01
 image: "/media/how-lead-generation-is-done.webp"
 tags:
   - post

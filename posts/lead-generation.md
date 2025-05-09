@@ -1,6 +1,6 @@
 ---
 title: "Lead Generation: A Comprehensive Guide to Effective Strategies and Tools"
-date: 2025-05-07
+date: 2025-05-06
 image: "/media/lead-generation.webp"
 tags:
   - post

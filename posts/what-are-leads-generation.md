@@ -1,6 +1,6 @@
 ---
 title: "What Are Lead Generation?"
-date: 2025-05-08
+date: 2024-07-10
 image: "/media/what-are-lead-generation.webp"
 tags:
   - post

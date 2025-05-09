@@ -1,6 +1,6 @@
 ---
 title: "What Are the Types of Lead Generation?"
-date: 2025-05-08
+date: 2024-04-05
 image: "/media/what-are-the-types-of-lead-generation.webp"
 tags:
   - post

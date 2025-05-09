@@ -1,6 +1,6 @@
 ---
 title: "How to Do Lead Generation in Sales"
-date: 2025-05-08
+date: 2025-03-05
 image: "/media/how-to-do-lead-generation-in-sales.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Business Growth with Innovative Customer Outreach Methods"
-date: 2025-05-07
+date: 2025-02-13
 image: "/media/enhancing-business-growth-with-innovative-customer-outreach-methods.webp"
 tags:
   - post

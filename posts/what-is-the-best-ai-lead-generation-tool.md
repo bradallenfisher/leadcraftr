@@ -1,6 +1,6 @@
 ---
 title: "What Is the Best Ai Lead Generation Tool?"
-date: 2025-05-08
+date: 2024-04-17
 image: "/media/what-is-the-best-ai-lead-generation-tool.webp"
 tags:
   - post

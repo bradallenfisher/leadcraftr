@@ -1,6 +1,6 @@
 ---
 title: "Budget: Does the Lead Have the Financial Resources to Purchase Your Product or Service?"
-date: 2025-05-08
+date: 2024-07-19
 image: "/media/budget-does-the-lead-have-the-financial-resources-to-purchase-your-product-or-service.webp"
 tags:
   - post

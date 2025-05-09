@@ -1,6 +1,6 @@
 ---
 title: "What Are Lead Generation Activities?"
-date: 2025-05-08
+date: 2024-08-20
 image: "/media/what-are-lead-generation-activities.webp"
 tags:
   - post

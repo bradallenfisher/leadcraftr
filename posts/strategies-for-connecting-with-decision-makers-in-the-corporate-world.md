@@ -1,6 +1,6 @@
 ---
 title: "Strategies for Connecting with Decision Makers in the Corporate World"
-date: 2025-05-07
+date: 2024-06-08
 image: "/media/strategies-for-connecting-with-decision-makers-in-the-corporate-world.webp"
 tags:
   - post

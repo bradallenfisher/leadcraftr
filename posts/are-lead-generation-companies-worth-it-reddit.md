@@ -1,6 +1,6 @@
 ---
 title: "Are Lead Generation Companies Worth It? Reddit"
-date: 2025-05-08
+date: 2024-08-30
 image: "/media/are-lead-generation-companies-worth-it-reddit.webp"
 tags:
   - post

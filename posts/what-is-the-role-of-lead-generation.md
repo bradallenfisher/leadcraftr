@@ -1,6 +1,6 @@
 ---
 title: "What Is the Role of Lead Generation?"
-date: 2025-05-08
+date: 2024-04-19
 image: "/media/what-is-the-role-of-lead-generation.webp"
 tags:
   - post

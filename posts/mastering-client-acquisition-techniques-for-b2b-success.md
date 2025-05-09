@@ -1,6 +1,6 @@
 ---
 title: "Mastering Client Acquisition Techniques for B2b Success"
-date: 2025-05-07
+date: 2024-11-30
 image: "/media/mastering-client-acquisition-techniques-for-b2b-success.webp"
 tags:
   - post

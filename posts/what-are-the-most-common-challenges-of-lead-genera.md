@@ -1,6 +1,6 @@
 ---
 title: "What Are the Most Common Challenges of Lead Generation?"
-date: 2025-05-08
+date: 2025-03-01
 image: "/media/what-are-the-most-common-challenges-of-lead-generation.webp"
 tags:
   - post

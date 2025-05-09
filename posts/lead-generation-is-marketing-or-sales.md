@@ -1,6 +1,6 @@
 ---
 title: "Lead Generation: Is It Marketing or Sales?"
-date: 2025-05-08
+date: 2024-07-30
 image: "/media/lead-generation-is-it-marketing-or-sales.webp"
 tags:
   - post

@@ -1,6 +1,6 @@
 ---
 title: "The Impact of Sales Techniques on Client Discovery"
-date: 2025-05-07
+date: 2024-12-05
 image: "/media/the-impact-of-sales-techniques-on-client-discovery.webp"
 tags:
   - post

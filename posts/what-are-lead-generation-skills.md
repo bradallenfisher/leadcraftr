@@ -1,6 +1,6 @@
 ---
 title: "What Are Lead Generation Skills?"
-date: 2025-05-08
+date: 2025-04-03
 image: "/media/what-are-lead-generation-skills.webp"
 tags:
   - post

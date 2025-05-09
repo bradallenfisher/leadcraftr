@@ -1,6 +1,6 @@
 ---
 title: "How Lead Generation Companies Work"
-date: 2025-05-08
+date: 2025-02-12
 image: "/media/how-lead-generation-companies-work.webp"
 tags:
   - post
